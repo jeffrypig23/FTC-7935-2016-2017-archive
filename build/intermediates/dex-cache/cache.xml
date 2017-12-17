@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/stephenogden/.android/build-cache/f88a5da975caf240deb492070d3422a606a38068/output/jars/libs/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5a051fb9930d4b0df111f4e71ba2c97136f8d1f7">
+        <dex dex="/Users/stephenogden/Library/Mobile Documents/com~apple~CloudDocs/School/Robotics/FTC 7935 (2016-2017)/TeamCode/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_5a5bdb2a3c35f7d5065dec1956e0824b0b36b6d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stephenogden/.android/build-cache/f88a5da975caf240deb492070d3422a606a38068/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dc4ad03580e3f29564476f06b65f06d89704c0a9">
+        <dex dex="/Users/stephenogden/Library/Mobile Documents/com~apple~CloudDocs/School/Robotics/FTC 7935 (2016-2017)/TeamCode/build/intermediates/pre-dexed/debug/classes_eb053fbb9036c0bcdaf5163e8c99896fd40d70f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stephenogden/.android/build-cache/ef1f6a83f4b5594f743152b6e1a82bc942fcdd07/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d30a44d837c8f25360e4190341f43399eea81172">
+        <dex dex="/Users/stephenogden/Library/Mobile Documents/com~apple~CloudDocs/School/Robotics/FTC 7935 (2016-2017)/TeamCode/build/intermediates/pre-dexed/debug/classes_400c910a4b2756df6b1296727da428d134355c82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stephenogden/.android/build-cache/48a844cb41540ee1c243a2ffaebfb9262698070b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="01999c87afe3d10ffa06f3efa66f39e61e6aba0c">
+        <dex dex="/Users/stephenogden/Library/Mobile Documents/com~apple~CloudDocs/School/Robotics/FTC 7935 (2016-2017)/TeamCode/build/intermediates/pre-dexed/debug/classes_a90aa18bd8c348c965d81af5e5d17338d98bbb45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stephenogden/Library/Mobile Documents/com~apple~CloudDocs/School/Robotics/FTC 7935 (2016-2017)/openCVLibrary310/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bd0b5fe9b86387f76525159583082510338cb1c">
+        <dex dex="/Users/stephenogden/Library/Mobile Documents/com~apple~CloudDocs/School/Robotics/FTC 7935 (2016-2017)/TeamCode/build/intermediates/pre-dexed/debug/classes_b923da2ff44089123254cebac98b3b0cd00999f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stephenogden/.android/build-cache/24c7cafbe6a7f95941ba3691305059962f83604b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9dafed45e330aec14abcce05bdb7bbdb2a2d7092">
+        <dex dex="/Users/stephenogden/Library/Mobile Documents/com~apple~CloudDocs/School/Robotics/FTC 7935 (2016-2017)/TeamCode/build/intermediates/pre-dexed/debug/classes_424abbb6f7aa0b56cebed280e16e5b036266e048.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stephenogden/.android/build-cache/f88a5da975caf240deb492070d3422a606a38068/output/jars/libs/Vuforia.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f1dde8a0e6ed1172450c657386da45fd1d7565f4">
+        <dex dex="/Users/stephenogden/Library/Mobile Documents/com~apple~CloudDocs/School/Robotics/FTC 7935 (2016-2017)/TeamCode/build/intermediates/pre-dexed/debug/Vuforia_cf1daf3425c4ab5862e77dfc24bf90c9bf3bfda8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stephenogden/.android/build-cache/f4935e673a65c049579aec34bbc0a04ab3834fc1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="442e93c10918df3270cc37f9fcf9e90c43072eea">
+        <dex dex="/Users/stephenogden/Library/Mobile Documents/com~apple~CloudDocs/School/Robotics/FTC 7935 (2016-2017)/TeamCode/build/intermediates/pre-dexed/debug/classes_93fd5d90cb102c442c23b7d57a0163086053598e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stephenogden/.android/build-cache/df79ed902231ce87ced6ffc4e233f305874599c2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9403be210676ed196cdcc64c7391b9ae2361c174">
+        <dex dex="/Users/stephenogden/Library/Mobile Documents/com~apple~CloudDocs/School/Robotics/FTC 7935 (2016-2017)/TeamCode/build/intermediates/pre-dexed/debug/classes_385a996ea5c9d96c6a1079b960f6f000b7ba3aeb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stephenogden/Library/Mobile Documents/com~apple~CloudDocs/School/Robotics/FTC 7935 (2016-2017)/FtcRobotController/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a85d8cda170e7f6dcf9d8775c2358bef22b72c4a">
+        <dex dex="/Users/stephenogden/Library/Mobile Documents/com~apple~CloudDocs/School/Robotics/FTC 7935 (2016-2017)/TeamCode/build/intermediates/pre-dexed/debug/classes_e02f701d296fa6c02327eae61ebad94ddeba2b98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stephenogden/.android/build-cache/f88a5da975caf240deb492070d3422a606a38068/output/jars/libs/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d3fb718ef307cfff9ad988d06b98eadc292d1a34">
+        <dex dex="/Users/stephenogden/Library/Mobile Documents/com~apple~CloudDocs/School/Robotics/FTC 7935 (2016-2017)/TeamCode/build/intermediates/pre-dexed/debug/gson-2.7_7f4beab7b943873fea01d4be74da87e86cb7543c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stephenogden/.android/build-cache/f88a5da975caf240deb492070d3422a606a38068/output/jars/libs/d2xx.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="84a174a0d6bebc32bf1e7cd4139224f0b05df829">
+        <dex dex="/Users/stephenogden/Library/Mobile Documents/com~apple~CloudDocs/School/Robotics/FTC 7935 (2016-2017)/TeamCode/build/intermediates/pre-dexed/debug/d2xx_f1515e9cc0302734963ddb04e11c4a87f766a7ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stephenogden/.android/build-cache/7ef04344aca416f74543e8373f3414c992ffec4f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2204deca0490727b9009dba5cdb2ec515cdbcc63">
+        <dex dex="/Users/stephenogden/Library/Mobile Documents/com~apple~CloudDocs/School/Robotics/FTC 7935 (2016-2017)/TeamCode/build/intermediates/pre-dexed/debug/classes_083d661b2c8ab5b05a56071fc559fffc544754a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stephenogden/.android/build-cache/491eb2ee42ec83edae7825b37cea3d251bd8ac48/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b3051d2a26a36e5b402fd8aa14ec8a4bea328974">
+        <dex dex="/Users/stephenogden/Library/Mobile Documents/com~apple~CloudDocs/School/Robotics/FTC 7935 (2016-2017)/TeamCode/build/intermediates/pre-dexed/debug/classes_69dd3965bf07c277b71f32580d205f4471e8e8d5.jar" />
+    </item>
+
+</items>

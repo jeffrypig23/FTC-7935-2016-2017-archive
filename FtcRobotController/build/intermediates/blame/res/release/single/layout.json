@@ -1,0 +1,186 @@
+[
+    {
+        "merged": "/Users/stephenogden/Library/Mobile Documents/com~apple~CloudDocs/School/Robotics/FTC 7935 (2016-2017)/FtcRobotController/build/intermediates/res/merged/release/layout/red_line.xml",
+        "source": "/Users/stephenogden/.android/build-cache/7ef04344aca416f74543e8373f3414c992ffec4f/output/res/layout/red_line.xml"
+    },
+    {
+        "merged": "/Users/stephenogden/Library/Mobile Documents/com~apple~CloudDocs/School/Robotics/FTC 7935 (2016-2017)/FtcRobotController/build/intermediates/res/merged/release/layout/motor.xml",
+        "source": "/Users/stephenogden/.android/build-cache/7ef04344aca416f74543e8373f3414c992ffec4f/output/res/layout/motor.xml"
+    },
+    {
+        "merged": "/Users/stephenogden/Library/Mobile Documents/com~apple~CloudDocs/School/Robotics/FTC 7935 (2016-2017)/FtcRobotController/build/intermediates/res/merged/release/layout/activity_load.xml",
+        "source": "/Users/stephenogden/.android/build-cache/7ef04344aca416f74543e8373f3414c992ffec4f/output/res/layout/activity_load.xml"
+    },
+    {
+        "merged": "/Users/stephenogden/Library/Mobile Documents/com~apple~CloudDocs/School/Robotics/FTC 7935 (2016-2017)/FtcRobotController/build/intermediates/res/merged/release/layout/activity_ftc_configuration.xml",
+        "source": "/Users/stephenogden/.android/build-cache/7ef04344aca416f74543e8373f3414c992ffec4f/output/res/layout/activity_ftc_configuration.xml"
+    },
+    {
+        "merged": "/Users/stephenogden/Library/Mobile Documents/com~apple~CloudDocs/School/Robotics/FTC 7935 (2016-2017)/FtcRobotController/build/intermediates/res/merged/release/layout/analog_input_device.xml",
+        "source": "/Users/stephenogden/.android/build-cache/7ef04344aca416f74543e8373f3414c992ffec4f/output/res/layout/analog_input_device.xml"
+    },
+    {
+        "merged": "/Users/stephenogden/Library/Mobile Documents/com~apple~CloudDocs/School/Robotics/FTC 7935 (2016-2017)/FtcRobotController/build/intermediates/res/merged/release/layout/shape.xml",
+        "source": "/Users/stephenogden/.android/build-cache/7ef04344aca416f74543e8373f3414c992ffec4f/output/res/layout/shape.xml"
+    },
+    {
+        "merged": "/Users/stephenogden/Library/Mobile Documents/com~apple~CloudDocs/School/Robotics/FTC 7935 (2016-2017)/FtcRobotController/build/intermediates/res/merged/release/layout/pwms.xml",
+        "source": "/Users/stephenogden/.android/build-cache/7ef04344aca416f74543e8373f3414c992ffec4f/output/res/layout/pwms.xml"
+    },
+    {
+        "merged": "/Users/stephenogden/Library/Mobile Documents/com~apple~CloudDocs/School/Robotics/FTC 7935 (2016-2017)/FtcRobotController/build/intermediates/res/merged/release/layout/activity_swap_usb_devices.xml",
+        "source": "/Users/stephenogden/.android/build-cache/7ef04344aca416f74543e8373f3414c992ffec4f/output/res/layout/activity_swap_usb_devices.xml"
+    },
+    {
+        "merged": "/Users/stephenogden/Library/Mobile Documents/com~apple~CloudDocs/School/Robotics/FTC 7935 (2016-2017)/FtcRobotController/build/intermediates/res/merged/release/layout/analog_outputs.xml",
+        "source": "/Users/stephenogden/.android/build-cache/7ef04344aca416f74543e8373f3414c992ffec4f/output/res/layout/analog_outputs.xml"
+    },
+    {
+        "merged": "/Users/stephenogden/Library/Mobile Documents/com~apple~CloudDocs/School/Robotics/FTC 7935 (2016-2017)/FtcRobotController/build/intermediates/res/merged/release/layout/matrix_devices.xml",
+        "source": "/Users/stephenogden/.android/build-cache/7ef04344aca416f74543e8373f3414c992ffec4f/output/res/layout/matrix_devices.xml"
+    },
+    {
+        "merged": "/Users/stephenogden/Library/Mobile Documents/com~apple~CloudDocs/School/Robotics/FTC 7935 (2016-2017)/FtcRobotController/build/intermediates/res/merged/release/layout/legacy.xml",
+        "source": "/Users/stephenogden/.android/build-cache/7ef04344aca416f74543e8373f3414c992ffec4f/output/res/layout/legacy.xml"
+    },
+    {
+        "merged": "/Users/stephenogden/Library/Mobile Documents/com~apple~CloudDocs/School/Robotics/FTC 7935 (2016-2017)/FtcRobotController/build/intermediates/res/merged/release/layout/i2c_device.xml",
+        "source": "/Users/stephenogden/.android/build-cache/7ef04344aca416f74543e8373f3414c992ffec4f/output/res/layout/i2c_device.xml"
+    },
+    {
+        "merged": "/Users/stephenogden/Library/Mobile Documents/com~apple~CloudDocs/School/Robotics/FTC 7935 (2016-2017)/FtcRobotController/build/intermediates/res/merged/release/layout/orange_warning.xml",
+        "source": "/Users/stephenogden/.android/build-cache/7ef04344aca416f74543e8373f3414c992ffec4f/output/res/layout/orange_warning.xml"
+    },
+    {
+        "merged": "/Users/stephenogden/Library/Mobile Documents/com~apple~CloudDocs/School/Robotics/FTC 7935 (2016-2017)/FtcRobotController/build/intermediates/res/merged/release/layout/motor_controller_banner.xml",
+        "source": "/Users/stephenogden/.android/build-cache/7ef04344aca416f74543e8373f3414c992ffec4f/output/res/layout/motor_controller_banner.xml"
+    },
+    {
+        "merged": "/Users/stephenogden/Library/Mobile Documents/com~apple~CloudDocs/School/Robotics/FTC 7935 (2016-2017)/FtcRobotController/build/intermediates/res/merged/release/layout/digital_devices.xml",
+        "source": "/Users/stephenogden/.android/build-cache/7ef04344aca416f74543e8373f3414c992ffec4f/output/res/layout/digital_devices.xml"
+    },
+    {
+        "merged": "/Users/stephenogden/Library/Mobile Documents/com~apple~CloudDocs/School/Robotics/FTC 7935 (2016-2017)/FtcRobotController/build/intermediates/res/merged/release/layout/activity_blocks.xml",
+        "source": "/Users/stephenogden/.android/build-cache/f4935e673a65c049579aec34bbc0a04ab3834fc1/output/res/layout/activity_blocks.xml"
+    },
+    {
+        "merged": "/Users/stephenogden/Library/Mobile Documents/com~apple~CloudDocs/School/Robotics/FTC 7935 (2016-2017)/FtcRobotController/build/intermediates/res/merged/release/layout/activity_config_wifi_direct.xml",
+        "source": "/Users/stephenogden/.android/build-cache/7ef04344aca416f74543e8373f3414c992ffec4f/output/res/layout/activity_config_wifi_direct.xml"
+    },
+    {
+        "merged": "/Users/stephenogden/Library/Mobile Documents/com~apple~CloudDocs/School/Robotics/FTC 7935 (2016-2017)/FtcRobotController/build/intermediates/res/merged/release/layout/i2cs.xml",
+        "source": "/Users/stephenogden/.android/build-cache/7ef04344aca416f74543e8373f3414c992ffec4f/output/res/layout/i2cs.xml"
+    },
+    {
+        "merged": "/Users/stephenogden/Library/Mobile Documents/com~apple~CloudDocs/School/Robotics/FTC 7935 (2016-2017)/FtcRobotController/build/intermediates/res/merged/release/layout/activity_configure_from_template.xml",
+        "source": "/Users/stephenogden/.android/build-cache/7ef04344aca416f74543e8373f3414c992ffec4f/output/res/layout/activity_configure_from_template.xml"
+    },
+    {
+        "merged": "/Users/stephenogden/Library/Mobile Documents/com~apple~CloudDocs/School/Robotics/FTC 7935 (2016-2017)/FtcRobotController/build/intermediates/res/merged/release/layout/file_info.xml",
+        "source": "/Users/stephenogden/.android/build-cache/7ef04344aca416f74543e8373f3414c992ffec4f/output/res/layout/file_info.xml"
+    },
+    {
+        "merged": "/Users/stephenogden/Library/Mobile Documents/com~apple~CloudDocs/School/Robotics/FTC 7935 (2016-2017)/FtcRobotController/build/intermediates/res/merged/release/layout/darker_gray_line.xml",
+        "source": "/Users/stephenogden/.android/build-cache/7ef04344aca416f74543e8373f3414c992ffec4f/output/res/layout/darker_gray_line.xml"
+    },
+    {
+        "merged": "/Users/stephenogden/Library/Mobile Documents/com~apple~CloudDocs/School/Robotics/FTC 7935 (2016-2017)/FtcRobotController/build/intermediates/res/merged/release/layout/activity_inspection.xml",
+        "source": "/Users/stephenogden/.android/build-cache/491eb2ee42ec83edae7825b37cea3d251bd8ac48/output/res/layout/activity_inspection.xml"
+    },
+    {
+        "merged": "/Users/stephenogden/Library/Mobile Documents/com~apple~CloudDocs/School/Robotics/FTC 7935 (2016-2017)/FtcRobotController/build/intermediates/res/merged/release/layout/analog_inputs.xml",
+        "source": "/Users/stephenogden/.android/build-cache/7ef04344aca416f74543e8373f3414c992ffec4f/output/res/layout/analog_inputs.xml"
+    },
+    {
+        "merged": "/Users/stephenogden/Library/Mobile Documents/com~apple~CloudDocs/School/Robotics/FTC 7935 (2016-2017)/FtcRobotController/build/intermediates/res/merged/release/layout/matrices.xml",
+        "source": "/Users/stephenogden/.android/build-cache/7ef04344aca416f74543e8373f3414c992ffec4f/output/res/layout/matrices.xml"
+    },
+    {
+        "merged": "/Users/stephenogden/Library/Mobile Documents/com~apple~CloudDocs/School/Robotics/FTC 7935 (2016-2017)/FtcRobotController/build/intermediates/res/merged/release/layout/servo_controller_banner.xml",
+        "source": "/Users/stephenogden/.android/build-cache/7ef04344aca416f74543e8373f3414c992ffec4f/output/res/layout/servo_controller_banner.xml"
+    },
+    {
+        "merged": "/Users/stephenogden/Library/Mobile Documents/com~apple~CloudDocs/School/Robotics/FTC 7935 (2016-2017)/FtcRobotController/build/intermediates/res/merged/release/layout/pwm_device.xml",
+        "source": "/Users/stephenogden/.android/build-cache/7ef04344aca416f74543e8373f3414c992ffec4f/output/res/layout/pwm_device.xml"
+    },
+    {
+        "merged": "/Users/stephenogden/Library/Mobile Documents/com~apple~CloudDocs/School/Robotics/FTC 7935 (2016-2017)/FtcRobotController/build/intermediates/res/merged/release/layout/port_attached_row.xml",
+        "source": "/Users/stephenogden/.android/build-cache/7ef04344aca416f74543e8373f3414c992ffec4f/output/res/layout/port_attached_row.xml"
+    },
+    {
+        "merged": "/Users/stephenogden/Library/Mobile Documents/com~apple~CloudDocs/School/Robotics/FTC 7935 (2016-2017)/FtcRobotController/build/intermediates/res/merged/release/layout/info_button.xml",
+        "source": "/Users/stephenogden/.android/build-cache/7ef04344aca416f74543e8373f3414c992ffec4f/output/res/layout/info_button.xml"
+    },
+    {
+        "merged": "/Users/stephenogden/Library/Mobile Documents/com~apple~CloudDocs/School/Robotics/FTC 7935 (2016-2017)/FtcRobotController/build/intermediates/res/merged/release/layout/header.xml",
+        "source": "/Users/stephenogden/Library/Mobile Documents/com~apple~CloudDocs/School/Robotics/FTC 7935 (2016-2017)/FtcRobotController/src/main/res/layout/header.xml"
+    },
+    {
+        "merged": "/Users/stephenogden/Library/Mobile Documents/com~apple~CloudDocs/School/Robotics/FTC 7935 (2016-2017)/FtcRobotController/build/intermediates/res/merged/release/layout/device_interface_module.xml",
+        "source": "/Users/stephenogden/.android/build-cache/7ef04344aca416f74543e8373f3414c992ffec4f/output/res/layout/device_interface_module.xml"
+    },
+    {
+        "merged": "/Users/stephenogden/Library/Mobile Documents/com~apple~CloudDocs/School/Robotics/FTC 7935 (2016-2017)/FtcRobotController/build/intermediates/res/merged/release/layout/analog_output_device.xml",
+        "source": "/Users/stephenogden/.android/build-cache/7ef04344aca416f74543e8373f3414c992ffec4f/output/res/layout/analog_output_device.xml"
+    },
+    {
+        "merged": "/Users/stephenogden/Library/Mobile Documents/com~apple~CloudDocs/School/Robotics/FTC 7935 (2016-2017)/FtcRobotController/build/intermediates/res/merged/release/layout/button_list.xml",
+        "source": "/Users/stephenogden/.android/build-cache/7ef04344aca416f74543e8373f3414c992ffec4f/output/res/layout/button_list.xml"
+    },
+    {
+        "merged": "/Users/stephenogden/Library/Mobile Documents/com~apple~CloudDocs/School/Robotics/FTC 7935 (2016-2017)/FtcRobotController/build/intermediates/res/merged/release/layout/simple_device.xml",
+        "source": "/Users/stephenogden/.android/build-cache/7ef04344aca416f74543e8373f3414c992ffec4f/output/res/layout/simple_device.xml"
+    },
+    {
+        "merged": "/Users/stephenogden/Library/Mobile Documents/com~apple~CloudDocs/School/Robotics/FTC 7935 (2016-2017)/FtcRobotController/build/intermediates/res/merged/release/layout/servo.xml",
+        "source": "/Users/stephenogden/.android/build-cache/7ef04344aca416f74543e8373f3414c992ffec4f/output/res/layout/servo.xml"
+    },
+    {
+        "merged": "/Users/stephenogden/Library/Mobile Documents/com~apple~CloudDocs/School/Robotics/FTC 7935 (2016-2017)/FtcRobotController/build/intermediates/res/merged/release/layout/item_list_parent.xml",
+        "source": "/Users/stephenogden/.android/build-cache/7ef04344aca416f74543e8373f3414c992ffec4f/output/res/layout/item_list_parent.xml"
+    },
+    {
+        "merged": "/Users/stephenogden/Library/Mobile Documents/com~apple~CloudDocs/School/Robotics/FTC 7935 (2016-2017)/FtcRobotController/build/intermediates/res/merged/release/layout/activity_about.xml",
+        "source": "/Users/stephenogden/.android/build-cache/7ef04344aca416f74543e8373f3414c992ffec4f/output/res/layout/activity_about.xml"
+    },
+    {
+        "merged": "/Users/stephenogden/Library/Mobile Documents/com~apple~CloudDocs/School/Robotics/FTC 7935 (2016-2017)/FtcRobotController/build/intermediates/res/merged/release/layout/banner_parent.xml",
+        "source": "/Users/stephenogden/.android/build-cache/7ef04344aca416f74543e8373f3414c992ffec4f/output/res/layout/banner_parent.xml"
+    },
+    {
+        "merged": "/Users/stephenogden/Library/Mobile Documents/com~apple~CloudDocs/School/Robotics/FTC 7935 (2016-2017)/FtcRobotController/build/intermediates/res/merged/release/layout/loading_indicator_overlay.xml",
+        "source": "/Users/stephenogden/.android/build-cache/f88a5da975caf240deb492070d3422a606a38068/output/res/layout/loading_indicator_overlay.xml"
+    },
+    {
+        "merged": "/Users/stephenogden/Library/Mobile Documents/com~apple~CloudDocs/School/Robotics/FTC 7935 (2016-2017)/FtcRobotController/build/intermediates/res/merged/release/layout/motor_list.xml",
+        "source": "/Users/stephenogden/.android/build-cache/7ef04344aca416f74543e8373f3414c992ffec4f/output/res/layout/motor_list.xml"
+    },
+    {
+        "merged": "/Users/stephenogden/Library/Mobile Documents/com~apple~CloudDocs/School/Robotics/FTC 7935 (2016-2017)/FtcRobotController/build/intermediates/res/merged/release/layout/servo_list.xml",
+        "source": "/Users/stephenogden/.android/build-cache/7ef04344aca416f74543e8373f3414c992ffec4f/output/res/layout/servo_list.xml"
+    },
+    {
+        "merged": "/Users/stephenogden/Library/Mobile Documents/com~apple~CloudDocs/School/Robotics/FTC 7935 (2016-2017)/FtcRobotController/build/intermediates/res/merged/release/layout/activity_ftc_wifi_channel_selector.xml",
+        "source": "/Users/stephenogden/.android/build-cache/7ef04344aca416f74543e8373f3414c992ffec4f/output/res/layout/activity_ftc_wifi_channel_selector.xml"
+    },
+    {
+        "merged": "/Users/stephenogden/Library/Mobile Documents/com~apple~CloudDocs/School/Robotics/FTC 7935 (2016-2017)/FtcRobotController/build/intermediates/res/merged/release/layout/activity_programming_mode.xml",
+        "source": "/Users/stephenogden/.android/build-cache/f4935e673a65c049579aec34bbc0a04ab3834fc1/output/res/layout/activity_programming_mode.xml"
+    },
+    {
+        "merged": "/Users/stephenogden/Library/Mobile Documents/com~apple~CloudDocs/School/Robotics/FTC 7935 (2016-2017)/FtcRobotController/build/intermediates/res/merged/release/layout/activity_ftc_controller.xml",
+        "source": "/Users/stephenogden/Library/Mobile Documents/com~apple~CloudDocs/School/Robotics/FTC 7935 (2016-2017)/FtcRobotController/src/main/res/layout/activity_ftc_controller.xml"
+    },
+    {
+        "merged": "/Users/stephenogden/Library/Mobile Documents/com~apple~CloudDocs/School/Robotics/FTC 7935 (2016-2017)/FtcRobotController/build/intermediates/res/merged/release/layout/template_info.xml",
+        "source": "/Users/stephenogden/.android/build-cache/7ef04344aca416f74543e8373f3414c992ffec4f/output/res/layout/template_info.xml"
+    },
+    {
+        "merged": "/Users/stephenogden/Library/Mobile Documents/com~apple~CloudDocs/School/Robotics/FTC 7935 (2016-2017)/FtcRobotController/build/intermediates/res/merged/release/layout/digital_device.xml",
+        "source": "/Users/stephenogden/.android/build-cache/7ef04344aca416f74543e8373f3414c992ffec4f/output/res/layout/digital_device.xml"
+    },
+    {
+        "merged": "/Users/stephenogden/Library/Mobile Documents/com~apple~CloudDocs/School/Robotics/FTC 7935 (2016-2017)/FtcRobotController/build/intermediates/res/merged/release/layout/activity_view_logs.xml",
+        "source": "/Users/stephenogden/.android/build-cache/7ef04344aca416f74543e8373f3414c992ffec4f/output/res/layout/activity_view_logs.xml"
+    }
+]

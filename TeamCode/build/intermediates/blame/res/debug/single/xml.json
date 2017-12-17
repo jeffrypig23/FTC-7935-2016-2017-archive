@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/stephenogden/Library/Mobile Documents/com~apple~CloudDocs/School/Robotics/FTC 7935 (2016-2017)/TeamCode/build/intermediates/res/merged/debug/xml/k9usbbot.xml",
+        "source": "/Users/stephenogden/.android/build-cache/7ef04344aca416f74543e8373f3414c992ffec4f/output/res/xml/k9usbbot.xml"
+    },
+    {
+        "merged": "/Users/stephenogden/Library/Mobile Documents/com~apple~CloudDocs/School/Robotics/FTC 7935 (2016-2017)/TeamCode/build/intermediates/res/merged/debug/xml/k9legacybot.xml",
+        "source": "/Users/stephenogden/.android/build-cache/7ef04344aca416f74543e8373f3414c992ffec4f/output/res/xml/k9legacybot.xml"
+    },
+    {
+        "merged": "/Users/stephenogden/Library/Mobile Documents/com~apple~CloudDocs/School/Robotics/FTC 7935 (2016-2017)/TeamCode/build/intermediates/res/merged/debug/xml/device_filter.xml",
+        "source": "/Users/stephenogden/Library/Mobile Documents/com~apple~CloudDocs/School/Robotics/FTC 7935 (2016-2017)/FtcRobotController/build/intermediates/bundles/default/res/xml/device_filter.xml"
+    },
+    {
+        "merged": "/Users/stephenogden/Library/Mobile Documents/com~apple~CloudDocs/School/Robotics/FTC 7935 (2016-2017)/TeamCode/build/intermediates/res/merged/debug/xml/pushbot.xml",
+        "source": "/Users/stephenogden/.android/build-cache/7ef04344aca416f74543e8373f3414c992ffec4f/output/res/xml/pushbot.xml"
+    },
+    {
+        "merged": "/Users/stephenogden/Library/Mobile Documents/com~apple~CloudDocs/School/Robotics/FTC 7935 (2016-2017)/TeamCode/build/intermediates/res/merged/debug/xml/pushbotsens.xml",
+        "source": "/Users/stephenogden/.android/build-cache/7ef04344aca416f74543e8373f3414c992ffec4f/output/res/xml/pushbotsens.xml"
+    },
+    {
+        "merged": "/Users/stephenogden/Library/Mobile Documents/com~apple~CloudDocs/School/Robotics/FTC 7935 (2016-2017)/TeamCode/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/stephenogden/Library/Mobile Documents/com~apple~CloudDocs/School/Robotics/FTC 7935 (2016-2017)/FtcRobotController/build/intermediates/bundles/default/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/stephenogden/Library/Mobile Documents/com~apple~CloudDocs/School/Robotics/FTC 7935 (2016-2017)/TeamCode/build/intermediates/res/merged/debug/xml/squarebot.xml",
+        "source": "/Users/stephenogden/.android/build-cache/7ef04344aca416f74543e8373f3414c992ffec4f/output/res/xml/squarebot.xml"
+    }
+]
